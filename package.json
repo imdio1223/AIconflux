@@ -1,0 +1,27 @@
+{
+  "name": "ai-conflux",
+  "version": "1.0.0",
+  "description": "AI Conflux - Where AI Tools Converge: A comprehensive AI tools discovery platform.",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve . -l 3000",
+    "dev": "serve .",
+    "vercel-build": "echo 'Vercel static build'"
+  },
+  "keywords": [
+    "ai",
+    "tools",
+    "discovery",
+    "platform",
+    "static-site"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0",
+    "vercel": "^31.6.2"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+} 
